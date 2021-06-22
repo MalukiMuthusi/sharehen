@@ -1,0 +1,3 @@
+[submodule "sharehen-api"]
+	path = sharehen-api
+	url = https://github.com/MalukiMuthusi/sharehen-api
