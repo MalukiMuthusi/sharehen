@@ -8,4 +8,4 @@ We aim to connect individual travelling to the same sides of the country. The ri
 
 For example in Kenya, for those travelling from the city to their remote locations or other cities. For example from Nairobi to Kakamega, Eldoret, Nakuru, Mombasa, Kitui, Embu, e.t.c.
 
-The application can be used through the `Sharehen` mobile app or through the website `sherehen.com`
+The application can be used through the `Sharehen` mobile app or through the website `sharehen.com`
